@@ -1,0 +1,7 @@
+.shop_table {
+    border:solid 1px;
+    text-align:left;
+  }
+  thead {
+    background:#ccc;
+  }
